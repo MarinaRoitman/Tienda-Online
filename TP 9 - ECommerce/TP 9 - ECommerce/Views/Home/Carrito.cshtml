@@ -1,0 +1,79 @@
+﻿@using TP_9___ECommerce.Models;
+@{
+    ViewBag.Title = "Carrito";
+}
+<h2>Carrito</h2>
+@{
+    List<Producto> productosDelCarrito = ViewBag.carrito;
+    if (productosDelCarrito.Count() == 0)
+    {
+    <h2 id="p1" class="cesta"><strong>Tu carrito está vacío</strong></h2>
+    }
+    else
+    {
+     <!-- Modal -->
+        <div id="modalVaciar" class="modal" tabindex="-1" role="dialog">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title">¿Desea vacíar el carrito?</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <p>Todos sus articulos se deseleccionarán.</p>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal">No</button>
+                        <button type="button" class="btn btn-success" onclick="location.href = '@Url.Action("EliminarCarrito", "Home")';">Si</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+     <!-- Fin modal -->
+    <br />
+    <button type="button" class="btn btn-dark" onClick="abrirModalVaciar();">VACIAR CARRITO</button>
+ <!-- Media object -->
+    <section class="my-4 pt-5">
+        <div class="container">
+            <div class="row">
+                @foreach (Producto prod in ViewBag.Carrito)
+                {
+                    <ul class="list-unstyled">
+                        <li class="media">
+                            <img src="~/Content/Imagenes utilizadas/@prod.imagen" class="mr-3" alt="@prod.titulo" width="100">
+                            <div class="media-body">
+                                <h5 class="mt-0 mb-1">@prod.titulo</h5>
+                                @prod.descripcion
+                                <br />
+                                Precio: $@prod.importe
+                                <br />
+                                Unidades en el carrito: @prod.cant
+                                <br />
+                            </div>                        
+                        </li>
+                    </ul>
+                    <div class="marginBoton">
+                        <br />
+                        <button type="button" class="btn btn-dark botonEliminarProd" onClick="location.href = '@Url.Action("EliminarProducto", "Home", new { codigo = prod.codigo })';">x</button>
+                    </div>
+                }
+            </div>
+        </div>
+    </section>
+ <!-- Fin de media object -->
+    <div class="centrar">
+        <h2>$ @ViewBag.importeFinal</h2>
+        <button type="button" class="btn btn-dark">COMPRAR</button>
+    </div>
+    <br />
+    }
+}
+<script>
+
+    function abrirModalVaciar()
+    {
+        $('#modalVaciar').modal('show')
+    }
+</script>

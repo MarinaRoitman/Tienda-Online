@@ -1,0 +1,103 @@
+﻿body {
+    background-color: white;
+}
+
+.colorBarra, footer, footer p {
+    background-color: #8e92ab;
+    color: white !important;
+    font-family: Helvetica, Verdana;
+}
+
+footer {
+    font-size: 25px;
+}
+
+h1 {
+    font-family: Bodoni MT,verdana;
+    color: black;
+    text-align: center;
+    font-size: 60px;
+}
+
+h2 {
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    color: black;
+    text-align: center;
+}
+
+h3 {
+    margin: auto;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    color: black;
+    text-align: center;
+    font-weight: normal;
+}
+
+p {
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    color: black;
+    text-align: center;
+    font-weight: normal;
+    font-size: 18px;
+}
+
+.ocultar {
+    display: none;
+}
+
+.centrar {
+    text-align: center;
+}
+
+.noVerComoLink {
+    text-decoration: none !important;
+}
+
+h4 {
+    font-size: 18px;
+    text-align: center;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    color: black;
+}
+
+log:link, log:visited {
+    background-color: white;
+    color: white;
+    border: 2px solid #D6E0F0;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+log:hover, log:active {
+    background-color: grey;
+    color: white;
+}
+
+.card {
+min-height: 900px;
+}
+
+.botonEliminarProd {
+    background-color: #394867;
+    color: white;
+    float: right;
+    margin: 2px 2px;
+}
+
+#p1 {
+    background-color: #394867;
+    color: white;
+    text-align-last: center;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+.cesta {
+    margin-top: 25%;
+    margin-bottom: 25%;
+}
+
+.marginBoton {
+    margin-left: 25%;
+}

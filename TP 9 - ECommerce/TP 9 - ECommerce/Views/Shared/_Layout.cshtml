@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Mi aplicación ASP.NET</title>
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <link href="~/Content/fontawesome/css/all.css" rel="stylesheet">
+</head>
+<body>
+    <!-- Barra de navegación fijada -->
+    <nav class="navbar fixed-top navbar-expand-lg navbar-dark colorBarra">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="@Url.Action("Index", "Home")">ARMONY</a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        RUBROS
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="@Url.Action("ListadoProductosRubros", "Home", new { codigoRubro = (1) })">ACCESORIOS</a>
+                        <a class="dropdown-item" href="@Url.Action("ListadoProductosRubros", "Home", new { codigoRubro = (2) })">VESTIDOS</a>
+                        <a class="dropdown-item" href="@Url.Action("ListadoProductosRubros", "Home", new { codigoRubro = (3) })">REMERAS</a>
+                    </div>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="@Url.Action("Carrito", "Home")"><i class="fas fa-shopping-cart"></i></a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <!-- Fin de la barra de navegación-->
+    <div class="container body-content">
+        @RenderBody()
+    </div>
+        <!-- Footer -->
+        <footer>
+            <!-- Copyright -->
+            <div class="text-center text-light py-3">
+                <p class="">© @DateTime.Now.Year Copyright Marina A. Roitman</p>
+                <!-- Copyright -->
+            </div>
+        </footer>
+        <!-- Fin footer -->
+
+
+        @RenderSection("scripts", required: false)
+</body>
+</html>

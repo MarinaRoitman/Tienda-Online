@@ -1,0 +1,34 @@
+﻿@using TP_9___ECommerce.Models;
+@{
+    ViewBag.Title = "ListadoProductosRubros";
+}
+<h2>@ViewBag.nombreCategoria</h2>
+<!-- Cards -->
+<section class="my-4 pt-5">
+    <div class="container">
+        <div class="row">
+            @foreach (Producto prod in ViewBag.ProductosMostrarRubro)
+            {
+                <div class="col-md-4 col-sm-12">
+                    <div class="card-deck">
+                        <div class="card">
+                            <img src="~/Content/Imagenes utilizadas/@prod.imagen" class="card-img-top" alt="@prod.titulo">
+                            <div class="card-body">
+                                <h3 class="card-title"><strong>@prod.titulo</strong></h3>
+                                <p class="card-text">@prod.descripcion</p>
+                                <br />
+                                <h4>@prod.importe ARS</h4>
+                            </div>
+                            <h3>★★★★★</h3>
+                                <br />
+                            <button type="button" class="btn btn-outline-dark" onClick="location.href='@Url.Action("AgregarProducto", "Home", new { codigo = prod.codigo, quienLlamo = "ListadoProductosRubros" })'">COMPRAR AHORA</button>
+                        </div>
+                    </div>
+                    <br />
+                    <br />
+                </div>
+            }
+            <!-- Fin de cards -->
+        </div>
+    </div>
+</section>

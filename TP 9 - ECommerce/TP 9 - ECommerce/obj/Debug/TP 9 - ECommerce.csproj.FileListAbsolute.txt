@@ -1,0 +1,200 @@
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\bin\TP 9 - ECommerce.dll.config
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\bin\TP 9 - ECommerce.dll
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\bin\TP 9 - ECommerce.pdb
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\bin\roslyn\csc.exe
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\bin\roslyn\csc.exe.config
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\bin\roslyn\csc.rsp
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\bin\roslyn\csi.exe
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\bin\roslyn\csi.exe.config
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\bin\roslyn\csi.rsp
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\bin\roslyn\Microsoft.Managed.Core.targets
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\bin\roslyn\System.Buffers.dll
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\bin\roslyn\System.Collections.Immutable.dll
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\bin\roslyn\System.Memory.dll
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\bin\roslyn\System.Numerics.Vectors.dll
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\bin\roslyn\System.Reflection.Metadata.dll
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\bin\roslyn\System.Text.Encoding.CodePages.dll
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\bin\roslyn\System.Threading.Tasks.Extensions.dll
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\bin\roslyn\vbc.exe
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\bin\roslyn\vbc.exe.config
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\bin\roslyn\vbc.rsp
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\bin\roslyn\VBCSCompiler.exe
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\bin\roslyn\VBCSCompiler.exe.config
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\bin\Antlr3.Runtime.dll
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\bin\Microsoft.Web.Infrastructure.dll
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\bin\Newtonsoft.Json.dll
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\bin\System.Web.Helpers.dll
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\bin\System.Web.Mvc.dll
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\bin\System.Web.Optimization.dll
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\bin\System.Web.Razor.dll
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\bin\System.Web.WebPages.Deployment.dll
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\bin\System.Web.WebPages.dll
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\bin\System.Web.WebPages.Razor.dll
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\bin\WebGrease.dll
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\bin\Newtonsoft.Json.xml
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\bin\System.Web.Helpers.xml
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\bin\System.Web.Mvc.xml
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\bin\System.Web.Optimization.xml
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\bin\System.Web.Razor.xml
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\bin\System.Web.WebPages.xml
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\bin\System.Web.WebPages.Deployment.xml
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\bin\System.Web.WebPages.Razor.xml
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\bin\Antlr3.Runtime.pdb
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\bin\es\System.Web.Helpers.resources.dll
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\bin\es\System.Web.Mvc.resources.dll
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\bin\es\System.Web.Optimization.resources.dll
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\bin\es\System.Web.Razor.resources.dll
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\bin\es\System.Web.WebPages.resources.dll
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\bin\es\System.Web.WebPages.Deployment.resources.dll
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\bin\es\System.Web.WebPages.Razor.resources.dll
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\obj\Debug\TP 9 - ECommerce.csprojAssemblyReference.cache
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\obj\Debug\TP 9 - ECommerce.csproj.CopyComplete
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\obj\Debug\TP 9 - ECommerce.dll
+Z:\Tp 9 - Ecommerce\TP 9 - ECommerce\obj\Debug\TP 9 - ECommerce.pdb
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\obj\Debug\TP 9 - ECommerce.csprojAssemblyReference.cache
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\obj\Debug\TP 9 - ECommerce.csproj.CoreCompileInputs.cache
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\obj\Debug\TP 9 - ECommerce.dll
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\obj\Debug\TP 9 - ECommerce.pdb
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\bin\TP 9 - ECommerce.dll.config
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\bin\TP 9 - ECommerce.dll
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\bin\TP 9 - ECommerce.pdb
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\bin\roslyn\csc.exe
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\bin\roslyn\csc.exe.config
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\bin\roslyn\csc.rsp
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\bin\roslyn\csi.exe
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\bin\roslyn\csi.exe.config
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\bin\roslyn\csi.rsp
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\bin\roslyn\System.Buffers.dll
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\bin\roslyn\System.Memory.dll
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\bin\roslyn\vbc.exe
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\bin\roslyn\vbc.exe.config
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\bin\roslyn\vbc.rsp
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\bin\roslyn\VBCSCompiler.exe
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\bin\Antlr3.Runtime.dll
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\bin\Newtonsoft.Json.dll
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\bin\System.Web.Helpers.dll
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\bin\System.Web.Mvc.dll
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\bin\System.Web.Optimization.dll
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\bin\System.Web.Razor.dll
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\bin\System.Web.WebPages.Deployment.dll
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\bin\System.Web.WebPages.dll
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\bin\System.Web.WebPages.Razor.dll
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\bin\WebGrease.dll
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\bin\Newtonsoft.Json.xml
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\bin\System.Web.Helpers.xml
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\bin\System.Web.Mvc.xml
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\bin\System.Web.Optimization.xml
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\bin\System.Web.Razor.xml
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\bin\System.Web.WebPages.xml
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\bin\System.Web.WebPages.Deployment.xml
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\bin\System.Web.WebPages.Razor.xml
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\bin\Antlr3.Runtime.pdb
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\bin\es\System.Web.Helpers.resources.dll
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\bin\es\System.Web.Mvc.resources.dll
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\bin\es\System.Web.Optimization.resources.dll
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\bin\es\System.Web.Razor.resources.dll
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\bin\es\System.Web.WebPages.resources.dll
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\marin\Desktop\TP 9 - ECommerce\TP 9 - ECommerce\obj\Debug\TP 9 - ECommerce.csproj.CopyComplete
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\bin\TP 9 - ECommerce.dll.config
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\bin\TP 9 - ECommerce.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\bin\TP 9 - ECommerce.pdb
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\bin\roslyn\csc.exe
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\bin\roslyn\csc.exe.config
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\bin\roslyn\csc.rsp
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\bin\roslyn\csi.exe
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\bin\roslyn\csi.exe.config
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\bin\roslyn\csi.rsp
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\bin\roslyn\System.Buffers.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\bin\roslyn\System.Memory.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\bin\roslyn\vbc.exe
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\bin\roslyn\vbc.exe.config
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\bin\roslyn\vbc.rsp
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\bin\roslyn\VBCSCompiler.exe
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\bin\Antlr3.Runtime.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\bin\Newtonsoft.Json.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\bin\System.Web.Helpers.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\bin\System.Web.Mvc.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\bin\System.Web.Optimization.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\bin\System.Web.Razor.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\bin\System.Web.WebPages.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\bin\System.Web.WebPages.Razor.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\bin\WebGrease.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\bin\Newtonsoft.Json.xml
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\bin\System.Web.Helpers.xml
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\bin\System.Web.Mvc.xml
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\bin\System.Web.Optimization.xml
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\bin\System.Web.Razor.xml
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\bin\System.Web.WebPages.xml
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\bin\System.Web.WebPages.Razor.xml
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\bin\Antlr3.Runtime.pdb
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\bin\es\System.Web.Razor.resources.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\obj\Debug\TP 9 - ECommerce.csproj.AssemblyReference.cache
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\obj\Debug\TP 9 - ECommerce.csproj.CoreCompileInputs.cache
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\obj\Debug\TP 9 - ECommerce.csproj.CopyComplete
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\obj\Debug\TP 9 - ECommerce.dll
+C:\Users\Maru\Desktop\Maru\Cosas secundaria\4°C\Programacion\Tercer trimestre\TP 9 - ECommerce\TP 9 - ECommerce\obj\Debug\TP 9 - ECommerce.pdb
